@@ -9,7 +9,7 @@ NNOC - Nasu Next Origin Collective | 那須文化創生機構
 
 ---
 
-## Abstract
+# Abstract
 
 The Nasu region has long developed as one of Japan’s major resort destinations. At the same time, it now faces structural challenges common to many regional communities in Japan, including population decline, an aging population, and the weakening of local community activities.
 
@@ -50,9 +50,20 @@ This functioned not merely as event management, but as a form of social connecti
 
 Ultimately, this study proposes the possibility of a new regional coexistence model that transforms tourism from a consumption-based experience into a co-generated experience.
 
-## 1. Introduction
 
-### 1.1 Background
+
+<br>
+
+---
+
+# 1. Introduction
+
+
+
+<br>
+
+## 1.1 Background
+
 
 The Nasu region has long developed as one of Japan’s representative highland resort areas. Supported by rich natural environments, hot springs, villas, leisure facilities, and museums, the region has continuously attracted large numbers of visitors.
 
@@ -66,7 +77,12 @@ In reality, however, the visitor-attracting power, spatial resources, and cultur
 
 This study focuses on that potential for connection.
 
-### 1.2 Research Problem
+
+
+<br>
+
+## 1.2 Research Problem
+
 
 Many conventional tourism events are structured around the following elements:
 
@@ -94,7 +110,12 @@ At the same time, many regional revitalization projects tend to focus on creatin
 
 This study examines whether a new structure of regional coexistence can be formed by reconnecting these existing elements.
 
-### 1.3 Research Purpose
+
+
+<br>
+
+## 1.3 Research Purpose
+
 
 This study aims to reconstruct the relationship among Hotel Sunvalley Nasu, tourists, and local residents as a “mutual co-creation structure” rather than a structure based on consumption, labor, or competition.
 
@@ -114,9 +135,20 @@ The study further examines this project not merely as a successful event example
 - Tourism experience design
 - Information design
 
-## 2. Background / Literature Review
 
-### 2.1 Large-Scale Accommodation Facilities in Tourism Regions
+
+<br>
+
+---
+
+# 2. Background / Literature Review
+
+
+
+<br>
+
+## 2.1 Large-Scale Accommodation Facilities in Tourism Regions
+
 
 Large-scale accommodation facilities function as core infrastructures within tourism regions.
 
@@ -134,7 +166,12 @@ However, the spatial resources, gathering power, and cultural influence possesse
 
 This study therefore positions large-scale accommodation facilities not simply as lodging facilities, but as devices for connecting regional culture.
 
-### 2.2 Participatory Tourism Research
+
+
+<br>
+
+## 2.2 Participatory Tourism Research
+
 
 In recent years, tourism studies have increasingly emphasized concepts such as:
 
@@ -156,9 +193,20 @@ They have not sufficiently discussed shared experiential structures such as:
 
 This study focuses specifically on the structure in which “spending time together” itself becomes tourism value.
 
-## 3. Methods
 
-### 3.1 Research Subject
+
+<br>
+
+---
+
+# 3. Methods
+
+
+
+<br>
+
+## 3.1 Research Subject
+
 
 This study examines a community-participatory Christmas hymn project held at Hotel Sunvalley Nasu.
 
@@ -217,9 +265,20 @@ Here, information design does not simply refer to the transmission of informatio
 
 Through this, information design enables natural human connection.
 
-## 4. Results
 
-### 4.1 Community-Led Cultural Formation
+
+<br>
+
+---
+
+# 4. Results
+
+
+
+<br>
+
+## 4.1 Community-Led Cultural Formation
+
 
 In this project, the choir was formed not through dependence on external performers, but through cultural activities initiated by local residents themselves.
 
@@ -245,7 +304,12 @@ The voices of elderly participants especially contained depth shaped through lon
 
 This represents a case in which human resources and accumulated experiential knowledge already existing within the community were reconnected as tourism value.
 
-### 4.2 Transformation of Tourist Experience Through Participation
+
+
+<br>
+
+## 4.2 Transformation of Tourist Experience Through Participation
+
 
 Tourists did not remain passive audience members, but actively participated in singing.
 
@@ -270,7 +334,12 @@ In that moment, they came to share a common identity as “people singing togeth
 
 Most importantly, the act of “having sung together” itself became a core element that remained in visitors’ memories.
 
-### 4.3 Experiential Understanding of Culture
+
+
+<br>
+
+## 4.3 Experiential Understanding of Culture
+
 
 This project did not simply present music performances. It also incorporated brief explanations concerning the following:
 
@@ -296,7 +365,12 @@ Furthermore, through messages of gratitude included within the lyric booklets, t
 
 This functioned not simply as event guidance, but as a form of information design sharing the meaning of why people gather together within the same space.
 
-### 4.4 Emotional Impact on Community Participants
+
+
+<br>
+
+## 4.4 Emotional Impact on Community Participants
+
 
 Emotional changes were observed not only among tourists, but also among local participants themselves.
 
@@ -323,7 +397,12 @@ Most importantly, this structure was created not through large-scale external en
 
 The value observed in this study therefore began to be recognized not as a “consumed event,” but as a cultural structure capable of growing together with the region itself.
 
-### 4.5 Successful Reactivation of Space
+
+
+<br>
+
+## 4.5 Successful Reactivation of Space
+
 
 The Church of the Sun was originally designed as a wedding chapel and was equipped with the following:
 
@@ -344,9 +423,20 @@ As a result, the original meaning and value of the space were reconnected.
 
 This was not merely an example of event utilization. It was a case in which the original significance of the space itself was culturally reactivated through regional participation.
 
-## 5. Discussion
 
-### 5.1 Co-Generation of Tourism Experience
+
+<br>
+
+---
+
+# 5. Discussion
+
+
+
+<br>
+
+## 5.1 Co-Generation of Tourism Experience
+
 
 The tourism experience observed in this study was not simply an act of “using a facility,” but rather an act of “sharing time with others.”
 
@@ -360,7 +450,12 @@ In particular, the act of “singing together” involved the sharing of the fol
 
 Through this, the tourism experience itself was deepened.
 
-### 5.2 Reconnection of Existing Regional Resources
+
+
+<br>
+
+## 5.2 Reconnection of Existing Regional Resources
+
 
 One of the most important findings of this study is that the project did not rely on creating entirely new resources.
 
@@ -378,7 +473,12 @@ The project’s achievement lay in reconnecting these elements in meaningful way
 
 This suggests that regional revitalization may depend less on producing constant novelty and more on reconnecting values already present within the community.
 
-### 5.3 Regional Connection Through Information Design
+
+
+<br>
+
+## 5.3 Regional Connection Through Information Design
+
 
 This study treated lyric booklets, historical explanations, and organizer messages as forms of information design connecting people, culture, and space.
 
@@ -394,7 +494,12 @@ Through this sharing of meaning, natural human connection becomes possible.
 
 Through this information design, the boundaries among tourists, residents, and hotel staff gradually softened and became interconnected.
 
-### 5.4 Reconstruction of Elderly Roles
+
+
+<br>
+
+## 5.4 Reconstruction of Elderly Roles
+
 
 This study positioned elderly participants not merely as recipients of support, but as central figures sustaining regional culture.
 
@@ -404,7 +509,14 @@ Particularly within choral singing, the human voice itself became an expression 
 
 Furthermore, when younger generations expressed that “such experience is needed,” elderly participants themselves began to rediscover a sense of social role and meaning. This suggests possibilities for renewed participation within contemporary aging societies.
 
-## 6. Conclusion
+
+
+<br>
+
+---
+
+# 6. Conclusion
+
 
 This study analyzed the mutual co-creation structure formed among local residents, tourists, and Hotel Sunvalley Nasu through a community-participatory Christmas hymn project.
 
@@ -445,64 +557,77 @@ Within small rural communities in particular, existing forms of information—pe
 
 Such structures of reconnection may become new models for regional communities facing similar challenges, and as these successes accumulate, they may eventually serve as templates for reconstructing community structures within urban society as well.
 
-References
+<br>
 
-The Holy Bible, Old Testament.
+---
+
+# References
+
+<br>
+
+## The Holy Bible, Old Testament.
 Japan Bible Society.
 
-This study referenced the Psalms and traditions of praise within the Old Testament as cultural foundations through which humanity has historically shared songs, prayers, and emotions within communities.
+> This study referenced the Psalms and traditions of praise within the Old Testament as cultural foundations through which humanity has historically shared songs, prayers, and emotions within communities.
+> It also focused on how human beings have long treated death, blessings, and seasonal transitions not merely as events, but as experiences collectively shared through songs, prayer, and ritual practices.
+> This study therefore considered such practices as possible expressions of humanity’s inherent tendency to spend time together and share emotions collectively beyond formal religious structures.
 
-It also focused on how human beings have long treated death, blessings, and seasonal transitions not merely as events, but as experiences collectively shared through songs, prayer, and ritual practices.
+<br>
 
-This study therefore considered such practices as possible expressions of humanity’s inherent tendency to spend time together and share emotions collectively beyond formal religious structures.
-
-The Holy Bible, New Testament.
+## The Holy Bible, New Testament.
 Japan Bible Society.
 
-This study particularly referenced the Gospel of Luke and descriptions of the birth of Jesus Christ as cultural foundations of Christmas traditions.
+> This study particularly referenced the Gospel of Luke and descriptions of the birth of Jesus Christ as cultural foundations of Christmas traditions.
+> The study focused not on religion itself, but on cultural structures involving shared celebration, collective singing, hope, and gratitude.
 
-The study focused not on religion itself, but on cultural structures involving shared celebration, collective singing, hope, and gratitude.
+<br>
 
-Bowler, Gerry.
+## Bowler, Gerry.
 Santa Claus: A Biography.
 McClelland & Stewart, 2005.
 
-This work was referenced for its discussion of the historical background of Santa Claus culture, including Saint Nicholas traditions, gold coins, and stockings.
+> This work was referenced for its discussion of the historical background of Santa Claus culture, including Saint Nicholas traditions, gold coins, and stockings.
+> It informed the study’s consideration of how understanding cultural background deepens participants’ emotional attachment and engagement.
 
-It informed the study’s consideration of how understanding cultural background deepens participants’ emotional attachment and engagement.
+<br>
 
-Pine, B. Joseph, and James H. Gilmore.
+## Pine, B. Joseph, and James H. Gilmore.
 The Experience Economy.
 Harvard Business School Press, 1999.
 
-This study referenced the theory of the Experience Economy, particularly regarding tourism as an experience generated through shared participation rather than simple service consumption.
+> This study referenced the theory of the Experience Economy, particularly regarding tourism as an experience generated through shared participation rather than simple service consumption.
 
-Richards, Greg.
+<br>
+
+## Richards, Greg.
 Creative Tourism and Local Development.
 Creative Tourism: A Global Conversation, 2007.
 
-This work was referenced for its discussion of participatory and creative tourism structures, especially regarding tourists becoming active participants in local culture rather than passive observers.
+> This work was referenced for its discussion of participatory and creative tourism structures, especially regarding tourists becoming active participants in local culture rather than passive observers.
 
-Putnam, Robert D.
+<br>
+
+## Putnam, Robert D.
 Bowling Alone: The Collapse and Revival of American Community.
 Simon & Schuster, 2000.
 
-This study referenced Putnam’s discussion of declining community participation and social disconnection in contemporary society.
+> This study referenced Putnam’s discussion of declining community participation and social disconnection in contemporary society.
+> It informed the analysis of how collective singing reconnected local residents, tourists, and hotel staff.
 
-It informed the analysis of how collective singing reconnected local residents, tourists, and hotel staff.
+<br>
 
-Oldenburg, Ray.
+## Oldenburg, Ray.
 The Great Good Place.
 Marlowe & Company, 1999.
 
-This work was referenced for its Third Place theory.
+> This work was referenced for its Third Place theory.
+> In this study, the Church of the Sun functioned as a place distinct from home or workplace where people could naturally gather and connect.
 
-In this study, the Church of the Sun functioned as a place distinct from home or workplace where people could naturally gather and connect.
+<br>
 
-Manzini, Ezio.
+## Manzini, Ezio.
 Design, When Everybody Designs.
 MIT Press, 2015.
 
-This work informed the study’s perspective on participatory social design.
-
-The project demonstrated how local residents, tourists, and the hotel collectively shaped shared experiences and spaces together.
+> This work informed the study’s perspective on participatory social design.
+> The project demonstrated how local residents, tourists, and the hotel collectively shaped shared experiences and spaces together.
