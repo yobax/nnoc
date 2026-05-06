@@ -1,6 +1,5 @@
 # NNOC | Nasu Next Origin Collective
-
-> 那須文化創生機構
+<sub>那須文化創生機構</sub>
 
 **Regional cultural and social research collective based in Nasu, Japan.**
 
