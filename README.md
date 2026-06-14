@@ -1,10 +1,10 @@
 # NNOC | Nasu Next Origin Collective
+
 ###### 那須文化創生機構
 
 **Regional cultural and social research collective based in Nasu, Japan.**
 
-那須地域を拠点とし、
-地域文化・観光・情報設計・共同体形成を研究・実践するプロジェクト。
+NNOC explores regional coexistence, participatory tourism, information design, and community-based social connection through practical research and cultural projects.
 
 ---
 
@@ -23,13 +23,23 @@
 ## Organization / 組織
 
 **Regional Strategy Bureau**  
-**Agent:** Yohei Namba
+**Agent:** Yohei Namba | 難波 陽平
 
 ---
 
-## Research / 研究
+## Papers / 論文
 
-Initial paper:
+### coexistence
 
-**Regional Coexistence Model Centered on a Large-Scale Resort Hotel**  
-*A New Structure of Mutual Co-Creation Between Local Residents and Tourism Facilities*
+Regional Coexistence Model Centered on a Large-Scale Resort Hotel  
+— A New Structure of Mutual Co-Creation Between Local Residents and Tourism Facilities —
+
+Research examining regional coexistence structures through participatory cultural practices held at Hotel Sunvalley Nasu, Japan.
+
+---
+
+## Vision / ビジョン
+
+NNOC studies and develops regional models that reconnect people, culture, space, emotion, and community through practical implementation and research.
+
+The project explores how already existing regional resources can be reorganized and reconnected to create new forms of social and cultural infrastructure.
